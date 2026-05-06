@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <AppRoutes />
-      <Analytics/>
+      <Analytics/> 
     </BrowserRouter>
   );
 }
